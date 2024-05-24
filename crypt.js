@@ -1,4 +1,4 @@
-const text = "hello hello"
+const text = "anton anton anas anass adam adam"
 
 const symbols = [
 {
@@ -20,7 +20,7 @@ const symbols = [
 {
     value: "f",
     cryptedValue: "9892"
-}
+},
 {
     value: "g",
     cryptedValue: "1214"
@@ -71,11 +71,27 @@ const symbols = [
 },
 {
     value: "v",
-    cryptedValue: "2344"
+    cryptedValue: "2872"
+},
+{
+    value: "w",
+    cryptedValue: "9923"
+},
+{
+    value: "x",
+    cryptedValue: "3874"
+},
+{
+    value: "y",
+    cryptedValue: "0931"
+},
+{
+    value: "z",
+    cryptedValue: "7121"
 },
 {
     value: "h",
-    cryptedValue: "2344"
+    cryptedValue: "3297"
 },
 {
     value: "e",
